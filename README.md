@@ -1,2 +1,2 @@
-# CS381
+# NLP
 NLP project done in Python
